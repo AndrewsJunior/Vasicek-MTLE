@@ -1,1 +1,21 @@
-# Vasicek-MTLE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%              Trimmed Maximum Likelihood Estimation for Discrete Multivariate Vasicek Processes      %
+%           (C) Andrews T. Anum, Michael Pokojovy, Ebenezer Nkum and Thomas M. Fullerton, Jr. (2024)  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The Matlab programs reproduce results reported in the paper titled 
+	"Trimmed Maximum Likelihood Estimation for Discrete Multivariate Vasicek Processes" 
+by Thomas M. Fullerton, Jr., Michael Pokojovy, Andrews T. Anum and Ebenezer Nkum.
+
+Instructions:
+
+1) The "simulation/simulation_I" folder includes Matlab programs used to perform simulation study and generate graphs and tables reported in Simulation Setting I (Section 3.1.1). See "simulation/simulation_I/readme". 
+
+2) The "simulation/simulation_II" folder includes Matlab programs used to perform simulation study and generate graphs and tables reported in Simulation Setting II (Section 3.1.2). See "simulation/simulation_II/readme".
+
+3) The "examples/daily_treasury" folder includes Matlab programs to perform the analysis in Section 3.2.1 (Daily Treasury and Euro Par Yields). See "examples/daily_treasury/readme" for details. 
+
+4) The "examples/safehaven" folder includes Matlab programs to perform the analysis in Section 3.2.2 (Safe Haven Assets). See "examples/safehaven/readme" for details.
+
+Copyright: Andrews T. Anum, Michael Pokojovy, Ebenezer Nkum and Thomas M. Fullerton, Jr. (2024)
+See license for license terms and conditions
