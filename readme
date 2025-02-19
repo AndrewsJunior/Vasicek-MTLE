@@ -15,7 +15,7 @@ Instructions:
 
 3) The "examples/daily_treasury" folder includes Matlab programs to perform the analysis in Section 3.2.1 (Daily Treasury and Euro Par Yields). See "examples/daily_treasury/readme" for details. 
 
-4) The "examples/safehaven" folder includes Matlab programs to perform the analysis in Section 3.2.2 (Safe Haven Assets). See "examples/safehaven/readme" for details.
+4) The "examples/safehaven" folder includes Matlab programs to perform the analysis in Section 3.2.2 (Commodities and Currencies). See "examples/safehaven/readme" for details.
 
 Copyright: Andrews T. Anum, Michael Pokojovy, Ebenezer Nkum and Thomas M. Fullerton, Jr. (2024)
 See license for license terms and conditions
